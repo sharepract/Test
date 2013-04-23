@@ -1,0 +1,9 @@
+c:\users\mchinnasamy\documents\visual studio 2010\Projects\AzureTest\AzureTest\bin\Debug\ServiceConfiguration.cscfg
+c:\users\mchinnasamy\documents\visual studio 2010\Projects\AzureTest\AzureTest\bin\Debug\ServiceDefinition.csdef
+c:\users\mchinnasamy\documents\visual studio 2010\Projects\AzureTest\AzureTest\obj\Debug\AzureRole\bin\AzureRole.dll
+c:\users\mchinnasamy\documents\visual studio 2010\Projects\AzureTest\AzureTest\obj\Debug\AzureRole\bin\AzureRole.pdb
+c:\users\mchinnasamy\documents\visual studio 2010\Projects\AzureTest\AzureTest\obj\Debug\AzureRole\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\mchinnasamy\documents\visual studio 2010\Projects\AzureTest\AzureTest\obj\Debug\AzureRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+c:\users\mchinnasamy\documents\visual studio 2010\Projects\AzureTest\AzureTest\obj\Debug\AzureRole\bin\Microsoft.WindowsAzure.Diagnostics.xml
+c:\users\mchinnasamy\documents\visual studio 2010\Projects\AzureTest\AzureTest\obj\Debug\AzureRole\bin\Microsoft.WindowsAzure.StorageClient.dll
+c:\users\mchinnasamy\documents\visual studio 2010\Projects\AzureTest\AzureTest\obj\Debug\AzureRole\bin\System.Web.Providers.dll

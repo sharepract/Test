@@ -1,0 +1,10 @@
+c:\users\mchinnasamy\documents\visual studio 2010\Projects\AzureTest\AzureRole\bin\AzureRole.dll
+c:\users\mchinnasamy\documents\visual studio 2010\Projects\AzureTest\AzureRole\bin\AzureRole.pdb
+c:\users\mchinnasamy\documents\visual studio 2010\Projects\AzureTest\AzureRole\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\mchinnasamy\documents\visual studio 2010\Projects\AzureTest\AzureRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+c:\users\mchinnasamy\documents\visual studio 2010\Projects\AzureTest\AzureRole\bin\Microsoft.WindowsAzure.StorageClient.dll
+c:\users\mchinnasamy\documents\visual studio 2010\Projects\AzureTest\AzureRole\bin\System.Web.Providers.dll
+c:\users\mchinnasamy\documents\visual studio 2010\Projects\AzureTest\AzureRole\bin\Microsoft.WindowsAzure.Diagnostics.xml
+c:\users\mchinnasamy\documents\visual studio 2010\Projects\AzureTest\AzureRole\obj\Debug\AzureRole.csprojResolveAssemblyReference.cache
+c:\users\mchinnasamy\documents\visual studio 2010\Projects\AzureTest\AzureRole\obj\Debug\AzureRole.dll
+c:\users\mchinnasamy\documents\visual studio 2010\Projects\AzureTest\AzureRole\obj\Debug\AzureRole.pdb
